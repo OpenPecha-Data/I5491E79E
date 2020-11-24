@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1018179
   title: བཻ་རོའི་སྒྲུབ་ཕུག་ངོ་སྤྲོད་མདོར་བསྡུས།
-  volume: ''
+  volume:
+    abf26130f6924a5aa27c16ac874b9dcf:
+      image_group_id: I1GS1644
+      title: Volume 1 of
+      volume_number: 1
+      total_pages: 27
   author: ''
+ebook_metadata:
+  title: བཻ་རོའི་སྒྲུབ་ཕུག་ངོ་སྤྲོད་མདོར་བསྡུས།
+  author: ''
+  sku: P008152
+  cover: cover.jpg
+  layers:
+  - pagination
